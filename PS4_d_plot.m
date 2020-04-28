@@ -1,6 +1,6 @@
 %aj623
 %PS4
-%PROBLEM 1d
+%PROBLEM 2d
 
 %Define parameters 
 I1low=linspace(0,10,11);
